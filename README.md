@@ -13,6 +13,6 @@ For each multiple of 5, print "Buzz" instead of the number.
 
 For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
 
-### I will accept pull requests 10 minutes after they are made if nobody objects. If one of you objects to a change, feel free to explain why on the pull request's page before it is merged!
+### I will accept pull requests ~10 minutes after they are made if nobody objects. If one of you objects to a change, feel free to explain why on the pull request's page before it is merged!
 
 ---
